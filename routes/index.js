@@ -5,7 +5,7 @@ var fs = require('fs');
 router.get('/', function(req, res, next) {
   var files = [];
   var names =  [];
-const testFolder = '/Users/benfein/Desktop/Art Gallery/public/art';
+const testFolder = 'https://github.com/eman00392/Ethan1/tree/master/public/art/';
 
 fs.readdir(testFolder, (err, filess) => {
 
