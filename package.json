@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node https://github.com/eman00392/Ethan1/blob/master/bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
